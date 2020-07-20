@@ -5,8 +5,6 @@ Dataset and resulting model of Japanese Kamon trained using StarGAN.
 Dataset contains 400 images of Japanese Kamon divided by complexity and aesthetic pattern category.
 Aditional Images categories related to tea and coffea are also included as part of an Kamon related iconography generation project based on GAN.
 
-The goal of GANSta is to provide an entry point for curious artist and designers to explore the possibilities
-that modern Generative Adversarial Networks present to their creative process.
 
 ### Todos
 
